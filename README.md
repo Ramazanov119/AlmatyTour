@@ -1,4 +1,7 @@
-# AlmatyTour
-This is app for tourists
+# ongid_2
 
-https://github.com/Ramazanov119/AdminAlmatyTour/assets/73792710/61b683d5-6a16-4588-84d1-a8ad7321570f
+This is a tour of the app. 
+Which implements the weather, map, profile page, hotels and of course tours
+![Image alt](https://github.com/Ramazanov119/tourApp-on-flutter/blob/main/Screenshot_1680645158.png)
+
+
